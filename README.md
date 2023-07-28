@@ -52,7 +52,7 @@ Este projeto é puramente educacional e não tem fins lucrativos. Ele foi desenv
 
 ## Conclusão
 
-Esperamos que este projeto do jogo de acertar o número com comando de voz inspire outras ideias inovadoras e divertidas. A combinação de jogos com tecnologias avançadas, como reconhecimento de voz, pode criar experiências únicas e envolventes para os jogadores.
+Espero que este projeto do jogo de acertar o número com comando de voz inspire outras ideias inovadoras e divertidas. A combinação de jogos com tecnologias avançadas, como reconhecimento de voz, pode criar experiências únicas e envolventes para os jogadores.
 
 Divirta-se jogando e contribuindo para o projeto! Se você tiver alguma dúvida, sugestão ou comentário, sinta-se à vontade para abrir uma nova issue neste repositório.
 
